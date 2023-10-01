@@ -2,3 +2,6 @@ Ejercicios realizados en la Universidad Nacional de Entre Rios, para la materia 
 
 Lenguaje utilizado:
   - Python
+
+Plataforma utlizada para desarrollar el curso:
+  - Replit
